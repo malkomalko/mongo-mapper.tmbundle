@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>belongs_to :${1:comments}
+	<string>belongs_to :${1:something}${2:, :polymorphic =&gt; true}
 $0</string>
 	<key>name</key>
 	<string>belongs_to</string>

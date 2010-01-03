@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>has_many :${1:comments}${2:, :dependent =&gt; :destroy}
+	<string>many :${1:defaults}${2:, :as =&gt; :${3:defaultable}, :class_name =&gt; '${4:Default}'}${5:, :dependent =&gt; :${6:destroy}}
 $0</string>
 	<key>name</key>
 	<string>has_many</string>
 	<key>tabTrigger</key>
-	<string>ha</string>
+	<string>ma</string>
 	<key>uuid</key>
 	<string>E38D93FD-2AF4-404D-941B-C82FC3725DFE</string>
 </dict>
