@@ -8,8 +8,10 @@
 $0</string>
 	<key>name</key>
 	<string>include ::Document</string>
+	<key>scope</key>
+	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>md</string>
+	<string>mmd</string>
 	<key>uuid</key>
 	<string>BA7616B2-1DB9-46BB-8060-52F21524886D</string>
 </dict>

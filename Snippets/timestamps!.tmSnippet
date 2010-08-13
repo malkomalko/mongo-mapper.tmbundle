@@ -7,8 +7,10 @@
 $0</string>
 	<key>name</key>
 	<string>timestamps!</string>
+	<key>scope</key>
+	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>time</string>
+	<string>mmts</string>
 	<key>uuid</key>
 	<string>B4B587DF-D56A-4D86-BE04-68C27169DD4B</string>
 </dict>

@@ -7,8 +7,10 @@
 $0</string>
 	<key>name</key>
 	<string>key</string>
+	<key>scope</key>
+	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>ke</string>
+	<string>mmk</string>
 	<key>uuid</key>
 	<string>EB36361F-CCE4-4008-882C-AE1D23D17CB7</string>
 </dict>
