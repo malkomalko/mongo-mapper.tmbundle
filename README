@@ -1,3 +1,14 @@
-I'm just playing with MongoDB/MongoMapper but I was tired write lots of code all day long. So, here are some snippets for writing less code.
+ __  __  __  __    ____  __  __  ____  __  __  _  _  ____   __    ____ 
+(  \/  )(  \/  )  (_  _)(  \/  )(  _ \(  )(  )( \( )(  _ \ (  )  ( ___)
+ )    (  )    (     )(   )    (  ) _ < )(__)(  )  (  )(_) ) )(__  )__) 
+(_/\/\_)(_/\/\_)() (__) (_/\/\_)(____/(______)(_)\_)(____/ (____)(____)
 
-If you have any ideas — write please a.ognevsky@gmail.com
+mmd (mongo mapper document) - include MongoMapper::Document
+mmed - include MongoMapper::EmbeddedDocument
+mmk - key :default, String, :required => true
+mmmk - multiple keys
+mmts - timestamps!
+mmhm - many
+mmbt - belongs_to
+
+More coming shortly...
